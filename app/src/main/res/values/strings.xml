@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Tracks</string>
+    <string name="second_fragment_label">Lyrics</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="back">Back</string>
+
+    <string name="firststring">For our only hope is falling in love With who we are and what we wanna do
+</string>
+    <string name="secondstring"> CСant face it You know that youre wаsting wasting
+    </string>
+    <string name="thirdstring">Yeah, I know sometimes
+Things may not always make sense to you right now
+But hey, whatd daddy always tell you? </string>
+
+</resources>
